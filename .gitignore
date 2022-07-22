@@ -1,0 +1,14 @@
+# Files
+__pycache__/
+chr_en_data/
+Include/
+Lib/
+media/
+outputs/
+runs/
+sanity_check_en_es_data/
+Scripts/
+
+# Artifacts
+model.bin
+model.bin.optim
